@@ -54,11 +54,7 @@ Anaconda and jupyter notebook is a better way to install dependencies
 3. When the program is executed it opens the webcam and detects the human face and gives the output as emoji
 
 ## 4.5 Results
-
-(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Angry.png)
-(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Suprise.png)
-(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/happy.png)
-(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/sad.png)
+https://raw.githubusercontent.com/VISHNU-0909/Emotion-detection-using-AI/main/Images/Angry.png
 
 
 ## 5.Project created by:
