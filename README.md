@@ -1,5 +1,4 @@
 # Emotion-detection-using-AI
-# Emoji_Based_HumanReactions
 
 ## 1. Motivation
 
@@ -56,10 +55,11 @@ Anaconda and jupyter notebook is a better way to install dependencies
 
 ## 4.5 Results
 
-![WhatsApp Image 2022-12-07 at 9 14 12 PM](https://user-images.githubusercontent.com/120184924/206709998-829f5f1a-63b6-4647-b0c0-1cbb5843bd67.jpeg)
-![WhatsApp Image 2022-12-07 at 9 11 37 PM](https://user-images.githubusercontent.com/120184924/206710004-e7ce38e6-74a4-4796-bf1a-475a492c10d0.jpeg)
-![WhatsApp Image 2022-12-07 at 9 08 05 PM](https://user-images.githubusercontent.com/120184924/206710008-e0e0c3f9-5936-417e-97d3-b5e43293390f.jpeg)
-![WhatsApp Image 2022-12-07 at 9 07 03 PM](https://user-images.githubusercontent.com/120184924/206710011-dd4e461f-53bb-41cf-a408-9a29c3e1de89.jpeg)
+(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Angry.png
+https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Suprise.png
+https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/happy.png
+https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/sad.png
+)
 
 
 ## 5.Project created by:
@@ -68,4 +68,4 @@ Vishnu Devineni
 Bharath Kondreddy
 Vaishnavi pandala
 
-![image](https://user-images.githubusercontent.com/116463160/236367509-761b8b38-3e21-47d9-bbaf-99615a1cfaae.png)
+
