@@ -63,8 +63,8 @@ Anaconda and jupyter notebook is a better way to install dependencies
 
 ## 5.Project created by:
 
-1.Vishnu Devineni
-2.Bharath Kondreddy
-3.Vaishnavi pandala
+1. Vishnu Devineni
+2. Bharath Kondreddy
+3. Vaishnavi pandala
 
 
