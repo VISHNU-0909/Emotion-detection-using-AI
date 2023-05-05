@@ -55,11 +55,10 @@ Anaconda and jupyter notebook is a better way to install dependencies
 
 ## 4.5 Results
 
-(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Angry.png
-https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Suprise.png
-https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/happy.png
-https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/sad.png
-)
+(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Angry.png)
+(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/Suprise.png)
+(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/happy.png)
+(https://github.com/VISHNU-0909/Emotion-detection-using-AI/blob/main/Images/sad.png)
 
 
 ## 5.Project created by:
